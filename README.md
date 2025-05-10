@@ -1,8 +1,7 @@
 # risk_on_tech
 ## Description
-A portfolio with very high implied volatility ~0.65 (WARNING: very risky).
-\
-Agnostic to growth in US tech stocks as a sector and inflation of USD. This is achieved via risk parity.\
+A portfolio with very high implied volatility ~0.65 (WARNING: very risky). Trying to be agnostic to growth in US tech stocks as a sector and inflation of USD. This is achieved via risk parity.\
+## Allocation Explained
 Normally, US Treasury Bonds would be a hedge in case of low economic growth suprises. However, it is my opinion that the bond market is in rough shape due to lack of stability. It is also my opinion that TSLA is outrageously overvalued, making it a good choice for a short position TSDD. If TSLA were to return to a pre-earnings price of ~$238 per share (still overvalued), I would start reconsidering this short position and look for other investments that benefit from low economic growth. In terms of stock picks, I am of the opinion that Nvidia is still in the early stages of growth with demand for chips far outstripping supply. I predict that the demand for Nvidia chips will continue to grow at a fast pace as some of their cutting-edge applications recieve more mainstream attention. I know some investors are fearful of an "AI bubble", but I only think this would be possible if AI fails to deliver enough value which I find highly unlikely (We have already seen proof of concept). I am bullish on Google for similar reasons, they are the company most fairly valued that will make huge gains based on improved AI technology. And lastly, gold makes up such a large portion of this portfolio as a hedge against inflation, a "flight to safety" asset, and a bet against the USD (during Trump term).
 ## Portfolio
 Visuals from https://www.portfoliovisualizer.com/. \
