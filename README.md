@@ -16,7 +16,7 @@ I am bullish on Alphabet Inc. for similar reasons, they are the company most fai
 Google Cloud Executive Overview:
 ![image](https://github.com/user-attachments/assets/e8d9ecb1-1508-4289-bb94-e4a66929d5ec)
 ### SHNY 21%
-And lastly, Gold makes up such a large portion of this portfolio as a hedge against inflation, a "flight to safety" asset, and a bet against the USD. I think Cryptocurrencies present an interesting alternative to Gold, but since this portfolio has so much risk already, I decided to stick with Gold as a risk-off investment.
+And lastly, Gold makes up such a large portion of this portfolio as a hedge against inflation, a "flight to safety" asset, and a bet against the USD. I think Cryptocurrencies present an interesting alternative to Gold, but since this portfolio has so much risk already, I decided to stick with Gold as a risk-off investment. Also worth considering buying Euro, Yen, etc. however, I don't have any experience researching currencies or exchange-rates.
 ## Portfolio
 Visuals from https://www.portfoliovisualizer.com/. \
 ![image](https://github.com/user-attachments/assets/762e7ac2-4ac9-4486-a781-b5522f5e9e43) 
