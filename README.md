@@ -9,7 +9,9 @@ Normally, US Treasury Bonds would be a hedge in case of falling economic growth 
 ### NVDA
 In terms of stock picks, I am of the opinion that Nvidia is still in the early stages of growth with demand for chips far outstripping supply. I predict that the demand for Nvidia chips will continue to grow at a fast pace as some of their cutting-edge applications recieve more mainstream attention. I know some investors are fearful of an "AI bubble", but I only think this would be possible if AI fails to deliver enough value which I find highly unlikely (We have already seen proof of concept). 
 ### GOOG
-I am bullish on Alphabet Inc. for similar reasons, they are the company most fairly valued that will make huge gains based on improved AI technology. Although Google's market share on search is going to be taken up by LLMs, I see Google cloud which will greatly benefits from AI, as the future of Google's business. See https://www.sec.gov/Archives/edgar/data/1652044/000165204425000043/goog-20250331.htm for q1 earnings 2025, note their capital expenditures and margins in the Google Cloud segment. 
+I am bullish on Alphabet Inc. for similar reasons, they are the company most fairly valued that will make huge gains based on improved AI technology. Although Google's market share on search is going to be taken up by LLMs, I see Google cloud which will greatly benefits from AI, as the future of Google's business. See https://www.sec.gov/Archives/edgar/data/1652044/000165204425000043/goog-20250331.htm for q1 earnings 2025, note their capital expenditures and margins in the Google Cloud segment. \
+Google Cloud Executive Overview:
+![image](https://github.com/user-attachments/assets/e8d9ecb1-1508-4289-bb94-e4a66929d5ec)
 ### SHNY
 And lastly, Gold makes up such a large portion of this portfolio as a hedge against inflation, a "flight to safety" asset, and a bet against the USD. I think Cryptocurrencies present an interesting alternative to Gold, but since this portfolio has so much risk already, I decided to stick with Gold as a risk-off investment.
 ## Portfolio
