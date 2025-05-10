@@ -33,6 +33,6 @@ Portfolio: 5.43% YTD in 1/1/2025 - 5/9/2025. \
 S&P 500: -3.47% YTD in 1/1/2025 - 5/9/2025. \
 Nasdaq: -7.01% YTD in 1/1/2025 - 5/9/2025.
 ## Closing Thoughts
-I haven't owned these positions for a whole year yet with my own money, but I have held this portfolio for long enough to experience large gains and outperform all popular index funds for stocks (like SPY).
+I haven't owned these positions for the whole time period with my own money, but I have held this portfolio for long enough to experience large gains and outperform all popular index funds for stocks (like SPY).
 There is still more work to be done in terms of risk-adjusted returns, one reason the performance is so good is because the risk is also quite high (this is a trade-off).
 If you want to learn more about risk parity, check out https://www.bridgewater.com/research-and-insights/the-all-weather-story.
