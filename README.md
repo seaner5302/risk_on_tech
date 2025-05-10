@@ -26,7 +26,7 @@ Visuals from https://www.portfoliovisualizer.com/. \
 ![image](https://github.com/user-attachments/assets/992cd9a4-0e43-4527-b03b-85865699667c) \
 ![image](https://github.com/user-attachments/assets/1c0ae97c-ab7c-46f5-97d2-1029f0967d3d) \
 ![image](https://github.com/user-attachments/assets/09af2cc7-4acd-4731-aa1e-e9079b32c0b6) \
-If you want to check out the full results page, see https://www.portfoliovisualizer.com/backtest-portfolio?s=y&sl=3h9RJTWk2FiM4sdnP1RRE.
+If you want to check out the full results page, see https://drive.google.com/file/d/1u30w9-sNzGzhaANXOXfQX4zhWvejcBxE/view?usp=sharing for pdf.
 ## YTD
 Portfolio: 5.43% YTD in 1/1/2025 - 5/9/2025. \
 S&P 500: -3.47% YTD in 1/1/2025 - 5/9/2025. \
