@@ -28,7 +28,7 @@ Visuals from https://www.portfoliovisualizer.com/. \
 ![image](https://github.com/user-attachments/assets/09af2cc7-4acd-4731-aa1e-e9079b32c0b6) \
 If you want to check out the full results page, see https://www.portfoliovisualizer.com/backtest-portfolio?s=y&sl=3h9RJTWk2FiM4sdnP1RRE. \
 ## YTD
-My portfolio: 5.43% YTD in 1/1/2025 - 5/9/2025. \
+Portfolio: 5.43% YTD in 1/1/2025 - 5/9/2025. \
 S&P 500: -3.47% YTD in 1/1/2025 - 5/9/2025. \
 Nasdaq: -7.01% YTD in 1/1/2025 - 5/9/2025.
 ## Closing Thoughts
