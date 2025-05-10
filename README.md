@@ -11,6 +11,7 @@ Visuals from https://www.portfoliovisualizer.com/. \
 ![image](https://github.com/user-attachments/assets/d17a6e41-1274-4bba-a5b8-58d0f9516ebb)
 ## Returns
 ![image](https://github.com/user-attachments/assets/992cd9a4-0e43-4527-b03b-85865699667c) \
+![image](https://github.com/user-attachments/assets/1c0ae97c-ab7c-46f5-97d2-1029f0967d3d) \
 I haven't owned these positions for a whole year yet, but I have been in for long enough to experience large gains and outperform all popular index funds for stocks (like SPY).
 There is still more work to be done in terms of risk-adjusted returns, one reason the performance is so good is because the risk is also quite high (this is a trade-off).
 If you want to learn more about risk parity, check out https://www.bridgewater.com/research-and-insights/the-all-weather-story.
