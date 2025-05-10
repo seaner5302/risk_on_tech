@@ -1,8 +1,10 @@
 # risk_on_tech
 ## Description
-A portfolio with very high implied volatility ~0.65 (WARNING: very risky). Trying to be agnostic to growth in US tech stocks as a sector and inflation of USD. I would NOT recommend investing with this strategy if you are not planning on holding long term or if you do not have the free time available to rebalance frequently. \
+A portfolio with very high implied volatility ~0.65 (WARNING: very risky). Trying to be agnostic to growth in US tech stocks as a sector and inflation of USD. \
 This is achieved via risk parity, thank you Ray Dalio (https://www.bridgewater.com/research-and-insights/the-all-weather-story). \
 <img src="https://github.com/user-attachments/assets/0fc8c801-83c0-4246-9829-e7de4a9e6fe9" width="500" height="400"> 
+READ THIS BEFORE CONTINUING: \
+I would NOT recommend investing with this strategy if you are not planning on holding long term or if you do not have the free time available to rebalance frequently. \
 ## Allocation Explained
 ### TSDD
 Normally, US Treasury Bonds would be a hedge in case of falling economic growth suprises. However, it is my opinion that the bond market is in rough shape due to lack of stability. It is also my opinion that TSLA is outrageously overvalued, making it a good choice for a short position TSDD. If TSLA were to return to a pre-earnings price of ~$238 per share (still overvalued), I would start reconsidering this short position and look for other investments that benefit from falling economic growth. 
