@@ -1,6 +1,6 @@
 # risk_on_tech
 ## Description
-A portfolio with very high implied volatility ~0.65 (WARNING: very risky). Trying to be agnostic to growth in US tech stocks as a sector and inflation of USD. I would NOT recommend investing with this strategy if you are not planning on holding long term. \
+A portfolio with very high implied volatility ~0.65 (WARNING: very risky). Trying to be agnostic to growth in US tech stocks as a sector and inflation of USD. I would NOT recommend investing with this strategy if you are not planning on holding long term or if you do not have the free time available to rebalance frequently. \
 This is achieved via risk parity, thank you Ray Dalio (https://www.bridgewater.com/research-and-insights/the-all-weather-story). \
 <img src="https://github.com/user-attachments/assets/0fc8c801-83c0-4246-9829-e7de4a9e6fe9" width="500" height="400"> 
 ## Allocation Explained
