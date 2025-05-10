@@ -28,7 +28,8 @@ Visuals from https://www.portfoliovisualizer.com/. \
 ![image](https://github.com/user-attachments/assets/09af2cc7-4acd-4731-aa1e-e9079b32c0b6) \
 If you want to check out the full results page, see https://www.portfoliovisualizer.com/backtest-portfolio?s=y&sl=3h9RJTWk2FiM4sdnP1RRE. \
 ## YTD
-5.43% YTD in 1/1/2025 - 5/9/2025.
+My portfolio: 5.43% YTD in 1/1/2025 - 5/9/2025. \
+S&P 500: -3.47% YTD in 1/1/2025 - 5/9/2025.
 ## Closing Thoughts
 I haven't owned these positions for a whole year yet, but I have held this portfolio for long enough to experience large gains and outperform all popular index funds for stocks (like SPY).
 There is still more work to be done in terms of risk-adjusted returns, one reason the performance is so good is because the risk is also quite high (this is a trade-off).
